@@ -1,5 +1,5 @@
 # Tingkat-Kesejahteraan-Pekerja-di-Indonesia
 
-Analisisi Dengan Menggunakan nMetode Machine Learning:
+Analisis Dengan Menggunakan Metode Machine Learning:
 <li>Regresi</li>
 <li>Clustering</li>
