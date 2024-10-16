@@ -1,5 +1,5 @@
-# Tingkat-Kesejahteraan-Pekerja-di-Indonesia
+# Analysis of Worker Welfare Levels in Indonesia
 
-Analisis Dengan Menggunakan Metode Machine Learning:
+Analysis Using Machine Learning Methods:
 <li>Regresi</li>
 <li>Clustering</li>
