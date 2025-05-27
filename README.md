@@ -1,5 +1,5 @@
 # Analysis of Worker Welfare Levels in Indonesia
 
 Analysis Using Machine Learning Methods:
-<li>Regresi</li>
+<li>Regression</li>
 <li>Clustering</li>
